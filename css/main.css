@@ -1,0 +1,11 @@
+.sticky{
+    color: #000 !important;
+    background-color: #fff;
+    padding: 5px 0 !important;
+    position: fixed;
+    top: 0;
+}
+header{
+    transition: all .6s ease;
+
+}
